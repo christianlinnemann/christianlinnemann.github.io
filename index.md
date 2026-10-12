@@ -10,7 +10,15 @@ Portfolio Projects
 
 Map 1: COVID-19 Case Rates by ZIP Code — New York City, 2020
 
-Map image and project analysis will be added here.
+Question: How did reported COVID-19 case rates vary geographically across New York City ZIP codes in 2020?
+
+Data: This map uses COVID-19 case-rate information from the New York City Department of Health and Mental Hygiene and geographic boundary information from the U.S. Census Bureau. The map represents COVID-19 case rates by ZIP code for 2020.
+
+Method: I used ArcGIS Pro to create a thematic map showing geographic differences in COVID-19 case rates across New York City. I displayed ZIP code areas as polygons and classified the case-rate values into five categories. I then applied a graduated color scheme and created a layout containing a title, legend, north arrow, scale bar, and data source information.
+
+A design choice I made and why: I selected a color progression from yellow to red to make differences in reported case rates easy to recognize. Yellow represents areas with lower rates, while red represents areas with higher rates. This approach helps viewers identify geographic patterns without having to examine individual numerical values for every ZIP code.
+
+A limitation of this map: The map represents reported case rates for a specific period in 2020 and does not explain why rates differed between neighborhoods. Factors such as testing availability, population characteristics, and reporting practices may influence the data. Additionally, ZIP code averages can hide important differences within individual neighborhoods.
 
 Map 2: Historical Redlining and Modern Broadband Access — Atlanta, Georgia
 
