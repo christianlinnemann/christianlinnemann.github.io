@@ -22,6 +22,7 @@ A design choice I made and why: I selected a color progression from yellow to re
 A limitation of this map: The map represents reported case rates for a specific period in 2020 and does not explain why rates differed between neighborhoods. Factors such as testing availability, population characteristics, and reporting practices may influence the data. Additionally, ZIP code averages can hide important differences within individual neighborhoods.
 
 Map 2: Historical Redlining and Modern Broadband Access — Atlanta, Georgia
+![Historical Redlining and Modern Broadband Access in Atlanta](images/Atlanta_Redlining_Broadband_Map.png)
 
 Question: How do historical redlining classifications compare with modern broadband internet access across Atlanta, Georgia?
 
