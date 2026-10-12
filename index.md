@@ -35,7 +35,19 @@ A design choice I made and why: I used four distinct outline colors to represent
 A limitation of this map: The historical redlining data and modern broadband data represent different periods and geographic boundaries. Although the map allows viewers to compare spatial patterns, it cannot establish that historical redlining directly caused present-day differences in broadband access.
 Data Sources
 
-Dataset information and source links will be included with each project.
+Map 1 — COVID-19 Case Rates by ZIP Code, New York City (2020)
+
+New York City Department of Health and Mental Hygiene. (2020). COVID-19 data. NYC Health COVID-19 data repository.
+
+U.S. Census Bureau. Geographic boundary data. Census TIGER/Line Shapefiles.
+
+Map 2 — Historical Redlining and Modern Broadband Access, Atlanta, Georgia
+
+University of Richmond, Digital Scholarship Lab. Mapping Inequality: Redlining in New Deal America. Mapping Inequality.
+
+U.S. Census Bureau. (2024). American Community Survey, five-year estimates: Broadband internet access. American Community Survey.
+
+Esri. Living Atlas of the World. ArcGIS Living Atlas.
 
 Where This Is Going
 
