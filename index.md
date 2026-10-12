@@ -33,6 +33,7 @@ Method: I used ArcGIS Pro to display historical HOLC neighborhood boundaries alo
 A design choice I made and why: I used four distinct outline colors to represent the historical HOLC grades (A through D) and shades of blue to represent broadband access. This allows viewers to compare historical neighborhood classifications with modern internet access without confusing the two datasets. The darker blue shading represents areas with higher percentages of broadband access.
 
 A limitation of this map: The historical redlining data and modern broadband data represent different periods and geographic boundaries. Although the map allows viewers to compare spatial patterns, it cannot establish that historical redlining directly caused present-day differences in broadband access.
+
 Data Sources
 
 Map 1 — COVID-19 Case Rates by ZIP Code, New York City (2020)
