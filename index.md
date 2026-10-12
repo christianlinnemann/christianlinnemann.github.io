@@ -9,6 +9,7 @@ This portfolio showcases two projects completed during my GIS coursework. Each m
 Portfolio Projects
 
 Map 1: COVID-19 Case Rates by ZIP Code — New York City, 2020
+![COVID-19 Case Rates by ZIP Code in New York City, 2020](images/NYC_COVID19_Map.png)
 
 Question: How did reported COVID-19 case rates vary geographically across New York City ZIP codes in 2020?
 
